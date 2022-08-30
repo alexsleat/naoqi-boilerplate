@@ -1,0 +1,2 @@
+DOCKER_NAME="docker_naoqi_test"
+CONTAINER_NAME="naoqi_test"
