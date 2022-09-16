@@ -2,7 +2,7 @@
 Edit docker_config to include names, etc
 
 # Build:
-docker build -t sanne_presentation22 .
+docker build -t docker_naoqi_test .
 
 # Create / run container:
 ./run_docker.sh
